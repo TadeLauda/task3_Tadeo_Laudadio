@@ -1,0 +1,107 @@
+* {
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(143, 125, 125);
+    position: absolute;
+}
+
+header {
+    height: 40px;
+    background-color: rgb(0, 0, 0);
+
+}
+
+body {
+    height: 100%;
+    background-attachment: fixed;
+    background: linear-gradient(rgba(5, 7, 12, 0.6), rgba(5, 7, 12, 0.6)), url("/imagenes/design1_image2.jpg");
+    background-size: cover;
+}
+
+.Logo {
+    width: 150px;
+    position: relative;
+    left: 85%;
+}
+
+h2 {
+    color: aliceblue;
+    position: relative;
+    top: 230px;
+    left: 80px;
+    text-decoration: underline;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+article>h2 {
+    color: aliceblue;
+    position: relative;
+    top: 0px;
+    left: 40px;
+    text-decoration: underline;
+}
+
+.minititulo {
+    color: aliceblue;
+    position: relative;
+    top: 230px;
+    left: 30px;
+}
+
+table {
+    color: aliceblue;
+    position: relative;
+    top: 230px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 23px;
+    padding: 3px;
+    background-color: rgba(252, 227, 0, 0.7);
+    color: rgb(253, 253, 253);
+    margin: 4px;
+    display: inline;
+    position: relative;
+    top: 10px;
+    left: 900px;
+}
+
+section {
+    color: aliceblue;
+    position: relative;
+    top: 250px;
+}
+
+.Foto {
+    width: 0px;
+}
+
+.alfabetica {
+    list-style-type: lower-latin;
+}
+
+table {
+    border-color: aliceblue;
+    margin: 25px;
+}
+
+th {
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.449);
+}
+
+td {
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.429);
+}
+span{
+    color: rgb(100, 189, 245);
+    text-decoration-line: underline;
+}
